@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drink Water</string>
+    <string name="hint">Intervalo (min)</string>
+    <string name="notify">Notificar</string>
+    <string name="pause">Pausar</string>
+    <string name="Validation">Intervalo deve ser definido!</string>
+</resources>
